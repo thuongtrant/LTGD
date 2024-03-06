@@ -1,0 +1,10 @@
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_QuaySo\WindowsFormsApp_QuaySo\bin\Debug\WindowsFormsApp_QuaySo.exe.config
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_QuaySo\WindowsFormsApp_QuaySo\bin\Debug\WindowsFormsApp_QuaySo.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_QuaySo\WindowsFormsApp_QuaySo\bin\Debug\WindowsFormsApp_QuaySo.pdb
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_QuaySo\WindowsFormsApp_QuaySo\obj\Debug\WindowsFormsApp_QuaySo.csproj.AssemblyReference.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_QuaySo\WindowsFormsApp_QuaySo\obj\Debug\WindowsFormsApp_QuaySo.Form1.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_QuaySo\WindowsFormsApp_QuaySo\obj\Debug\WindowsFormsApp_QuaySo.Properties.Resources.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_QuaySo\WindowsFormsApp_QuaySo\obj\Debug\WindowsFormsApp_QuaySo.csproj.GenerateResource.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_QuaySo\WindowsFormsApp_QuaySo\obj\Debug\WindowsFormsApp_QuaySo.csproj.CoreCompileInputs.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_QuaySo\WindowsFormsApp_QuaySo\obj\Debug\WindowsFormsApp_QuaySo.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_QuaySo\WindowsFormsApp_QuaySo\obj\Debug\WindowsFormsApp_QuaySo.pdb

@@ -1,0 +1,10 @@
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_HocToan\WindowsFormsApp_HocToan\bin\Debug\WindowsFormsApp_HocToan.exe.config
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_HocToan\WindowsFormsApp_HocToan\bin\Debug\WindowsFormsApp_HocToan.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_HocToan\WindowsFormsApp_HocToan\bin\Debug\WindowsFormsApp_HocToan.pdb
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_HocToan\WindowsFormsApp_HocToan\obj\Debug\WindowsFormsApp_HocToan.csproj.AssemblyReference.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_HocToan\WindowsFormsApp_HocToan\obj\Debug\WindowsFormsApp_HocToan.Form1.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_HocToan\WindowsFormsApp_HocToan\obj\Debug\WindowsFormsApp_HocToan.Properties.Resources.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_HocToan\WindowsFormsApp_HocToan\obj\Debug\WindowsFormsApp_HocToan.csproj.GenerateResource.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_HocToan\WindowsFormsApp_HocToan\obj\Debug\WindowsFormsApp_HocToan.csproj.CoreCompileInputs.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_HocToan\WindowsFormsApp_HocToan\obj\Debug\WindowsFormsApp_HocToan.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_HocToan\WindowsFormsApp_HocToan\obj\Debug\WindowsFormsApp_HocToan.pdb

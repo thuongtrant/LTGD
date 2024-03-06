@@ -1,0 +1,10 @@
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_ControlList\WindowsFormsApp_ControlList\bin\Debug\WindowsFormsApp_ControlList.exe.config
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_ControlList\WindowsFormsApp_ControlList\bin\Debug\WindowsFormsApp_ControlList.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_ControlList\WindowsFormsApp_ControlList\bin\Debug\WindowsFormsApp_ControlList.pdb
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_ControlList\WindowsFormsApp_ControlList\obj\Debug\WindowsFormsApp_ControlList.csproj.AssemblyReference.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_ControlList\WindowsFormsApp_ControlList\obj\Debug\WindowsFormsApp_ControlList.Form1.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_ControlList\WindowsFormsApp_ControlList\obj\Debug\WindowsFormsApp_ControlList.Properties.Resources.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_ControlList\WindowsFormsApp_ControlList\obj\Debug\WindowsFormsApp_ControlList.csproj.GenerateResource.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_ControlList\WindowsFormsApp_ControlList\obj\Debug\WindowsFormsApp_ControlList.csproj.CoreCompileInputs.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_ControlList\WindowsFormsApp_ControlList\obj\Debug\WindowsFormsApp_ControlList.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_ControlList\WindowsFormsApp_ControlList\obj\Debug\WindowsFormsApp_ControlList.pdb

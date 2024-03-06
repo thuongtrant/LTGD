@@ -1,0 +1,10 @@
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_TaoBongVaChamBien\WindowsFormsApp_TaoBongVaChamBien\bin\Debug\WindowsFormsApp_TaoBongVaChamBien.exe.config
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_TaoBongVaChamBien\WindowsFormsApp_TaoBongVaChamBien\bin\Debug\WindowsFormsApp_TaoBongVaChamBien.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_TaoBongVaChamBien\WindowsFormsApp_TaoBongVaChamBien\bin\Debug\WindowsFormsApp_TaoBongVaChamBien.pdb
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_TaoBongVaChamBien\WindowsFormsApp_TaoBongVaChamBien\obj\Debug\WindowsFormsApp_TaoBongVaChamBien.csproj.AssemblyReference.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_TaoBongVaChamBien\WindowsFormsApp_TaoBongVaChamBien\obj\Debug\WindowsFormsApp_TaoBongVaChamBien.Form1.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_TaoBongVaChamBien\WindowsFormsApp_TaoBongVaChamBien\obj\Debug\WindowsFormsApp_TaoBongVaChamBien.Properties.Resources.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_TaoBongVaChamBien\WindowsFormsApp_TaoBongVaChamBien\obj\Debug\WindowsFormsApp_TaoBongVaChamBien.csproj.GenerateResource.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_TaoBongVaChamBien\WindowsFormsApp_TaoBongVaChamBien\obj\Debug\WindowsFormsApp_TaoBongVaChamBien.csproj.CoreCompileInputs.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_TaoBongVaChamBien\WindowsFormsApp_TaoBongVaChamBien\obj\Debug\WindowsFormsApp_TaoBongVaChamBien.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_TaoBongVaChamBien\WindowsFormsApp_TaoBongVaChamBien\obj\Debug\WindowsFormsApp_TaoBongVaChamBien.pdb

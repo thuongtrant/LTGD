@@ -1,0 +1,10 @@
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhepTinhCoBan\WindowsFormsApp_PhepTinhCoBan\bin\Debug\WindowsFormsApp_PhepTinhCoBan.exe.config
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhepTinhCoBan\WindowsFormsApp_PhepTinhCoBan\bin\Debug\WindowsFormsApp_PhepTinhCoBan.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhepTinhCoBan\WindowsFormsApp_PhepTinhCoBan\bin\Debug\WindowsFormsApp_PhepTinhCoBan.pdb
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhepTinhCoBan\WindowsFormsApp_PhepTinhCoBan\obj\Debug\WindowsFormsApp_PhepTinhCoBan.csproj.AssemblyReference.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhepTinhCoBan\WindowsFormsApp_PhepTinhCoBan\obj\Debug\WindowsFormsApp_PhepTinhCoBan.Form1.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhepTinhCoBan\WindowsFormsApp_PhepTinhCoBan\obj\Debug\WindowsFormsApp_PhepTinhCoBan.Properties.Resources.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhepTinhCoBan\WindowsFormsApp_PhepTinhCoBan\obj\Debug\WindowsFormsApp_PhepTinhCoBan.csproj.GenerateResource.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhepTinhCoBan\WindowsFormsApp_PhepTinhCoBan\obj\Debug\WindowsFormsApp_PhepTinhCoBan.csproj.CoreCompileInputs.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhepTinhCoBan\WindowsFormsApp_PhepTinhCoBan\obj\Debug\WindowsFormsApp_PhepTinhCoBan.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhepTinhCoBan\WindowsFormsApp_PhepTinhCoBan\obj\Debug\WindowsFormsApp_PhepTinhCoBan.pdb

@@ -1,0 +1,10 @@
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_RandomNumber\WindowsFormsApp_RandomNumber\bin\Debug\WindowsFormsApp_RandomNumber.exe.config
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_RandomNumber\WindowsFormsApp_RandomNumber\bin\Debug\WindowsFormsApp_RandomNumber.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_RandomNumber\WindowsFormsApp_RandomNumber\bin\Debug\WindowsFormsApp_RandomNumber.pdb
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_RandomNumber\WindowsFormsApp_RandomNumber\obj\Debug\WindowsFormsApp_RandomNumber.csproj.AssemblyReference.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_RandomNumber\WindowsFormsApp_RandomNumber\obj\Debug\WindowsFormsApp_RandomNumber.Form1.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_RandomNumber\WindowsFormsApp_RandomNumber\obj\Debug\WindowsFormsApp_RandomNumber.Properties.Resources.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_RandomNumber\WindowsFormsApp_RandomNumber\obj\Debug\WindowsFormsApp_RandomNumber.csproj.GenerateResource.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_RandomNumber\WindowsFormsApp_RandomNumber\obj\Debug\WindowsFormsApp_RandomNumber.csproj.CoreCompileInputs.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_RandomNumber\WindowsFormsApp_RandomNumber\obj\Debug\WindowsFormsApp_RandomNumber.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_RandomNumber\WindowsFormsApp_RandomNumber\obj\Debug\WindowsFormsApp_RandomNumber.pdb

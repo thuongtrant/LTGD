@@ -1,0 +1,10 @@
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp__Listbox\WindowsFormsApp__Listbox\bin\Debug\WindowsFormsApp__Listbox.exe.config
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp__Listbox\WindowsFormsApp__Listbox\bin\Debug\WindowsFormsApp__Listbox.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp__Listbox\WindowsFormsApp__Listbox\bin\Debug\WindowsFormsApp__Listbox.pdb
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp__Listbox\WindowsFormsApp__Listbox\obj\Debug\WindowsFormsApp__Listbox.csproj.AssemblyReference.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp__Listbox\WindowsFormsApp__Listbox\obj\Debug\WindowsFormsApp__Listbox.Form1.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp__Listbox\WindowsFormsApp__Listbox\obj\Debug\WindowsFormsApp__Listbox.Properties.Resources.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp__Listbox\WindowsFormsApp__Listbox\obj\Debug\WindowsFormsApp__Listbox.csproj.GenerateResource.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp__Listbox\WindowsFormsApp__Listbox\obj\Debug\WindowsFormsApp__Listbox.csproj.CoreCompileInputs.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp__Listbox\WindowsFormsApp__Listbox\obj\Debug\WindowsFormsApp__Listbox.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp__Listbox\WindowsFormsApp__Listbox\obj\Debug\WindowsFormsApp__Listbox.pdb

@@ -1,0 +1,10 @@
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_DateTimePicker\WindowsFormsApp_DateTimePicker\bin\Debug\WindowsFormsApp_DateTimePicker.exe.config
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_DateTimePicker\WindowsFormsApp_DateTimePicker\bin\Debug\WindowsFormsApp_DateTimePicker.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_DateTimePicker\WindowsFormsApp_DateTimePicker\bin\Debug\WindowsFormsApp_DateTimePicker.pdb
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_DateTimePicker\WindowsFormsApp_DateTimePicker\obj\Debug\WindowsFormsApp_DateTimePicker.csproj.AssemblyReference.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_DateTimePicker\WindowsFormsApp_DateTimePicker\obj\Debug\WindowsFormsApp_DateTimePicker.Form1.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_DateTimePicker\WindowsFormsApp_DateTimePicker\obj\Debug\WindowsFormsApp_DateTimePicker.Properties.Resources.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_DateTimePicker\WindowsFormsApp_DateTimePicker\obj\Debug\WindowsFormsApp_DateTimePicker.csproj.GenerateResource.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_DateTimePicker\WindowsFormsApp_DateTimePicker\obj\Debug\WindowsFormsApp_DateTimePicker.csproj.CoreCompileInputs.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_DateTimePicker\WindowsFormsApp_DateTimePicker\obj\Debug\WindowsFormsApp_DateTimePicker.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_DateTimePicker\WindowsFormsApp_DateTimePicker\obj\Debug\WindowsFormsApp_DateTimePicker.pdb

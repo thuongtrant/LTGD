@@ -1,0 +1,11 @@
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_Login\WindowsFormsApp_Login\bin\Debug\WindowsFormsApp_Login.exe.config
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_Login\WindowsFormsApp_Login\bin\Debug\WindowsFormsApp_Login.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_Login\WindowsFormsApp_Login\bin\Debug\WindowsFormsApp_Login.pdb
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_Login\WindowsFormsApp_Login\obj\Debug\WindowsFormsApp_Login.csproj.AssemblyReference.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_Login\WindowsFormsApp_Login\obj\Debug\WindowsFormsApp_Login.Form1.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_Login\WindowsFormsApp_Login\obj\Debug\WindowsFormsApp_Login.Form2.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_Login\WindowsFormsApp_Login\obj\Debug\WindowsFormsApp_Login.Properties.Resources.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_Login\WindowsFormsApp_Login\obj\Debug\WindowsFormsApp_Login.csproj.GenerateResource.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_Login\WindowsFormsApp_Login\obj\Debug\WindowsFormsApp_Login.csproj.CoreCompileInputs.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_Login\WindowsFormsApp_Login\obj\Debug\WindowsFormsApp_Login.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_Login\WindowsFormsApp_Login\obj\Debug\WindowsFormsApp_Login.pdb

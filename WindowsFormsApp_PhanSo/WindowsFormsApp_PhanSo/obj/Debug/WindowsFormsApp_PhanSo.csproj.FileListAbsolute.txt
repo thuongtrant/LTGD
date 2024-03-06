@@ -1,0 +1,10 @@
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhanSo\WindowsFormsApp_PhanSo\bin\Debug\WindowsFormsApp_PhanSo.exe.config
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhanSo\WindowsFormsApp_PhanSo\bin\Debug\WindowsFormsApp_PhanSo.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhanSo\WindowsFormsApp_PhanSo\bin\Debug\WindowsFormsApp_PhanSo.pdb
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhanSo\WindowsFormsApp_PhanSo\obj\Debug\WindowsFormsApp_PhanSo.csproj.AssemblyReference.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhanSo\WindowsFormsApp_PhanSo\obj\Debug\WindowsFormsApp_PhanSo.Form1.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhanSo\WindowsFormsApp_PhanSo\obj\Debug\WindowsFormsApp_PhanSo.Properties.Resources.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhanSo\WindowsFormsApp_PhanSo\obj\Debug\WindowsFormsApp_PhanSo.csproj.GenerateResource.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhanSo\WindowsFormsApp_PhanSo\obj\Debug\WindowsFormsApp_PhanSo.csproj.CoreCompileInputs.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhanSo\WindowsFormsApp_PhanSo\obj\Debug\WindowsFormsApp_PhanSo.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhanSo\WindowsFormsApp_PhanSo\obj\Debug\WindowsFormsApp_PhanSo.pdb

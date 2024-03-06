@@ -1,0 +1,10 @@
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_Time\WindowsFormsApp_Time\bin\Debug\WindowsFormsApp_Time.exe.config
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_Time\WindowsFormsApp_Time\bin\Debug\WindowsFormsApp_Time.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_Time\WindowsFormsApp_Time\bin\Debug\WindowsFormsApp_Time.pdb
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_Time\WindowsFormsApp_Time\obj\Debug\WindowsFormsApp_Time.csproj.AssemblyReference.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_Time\WindowsFormsApp_Time\obj\Debug\WindowsFormsApp_Time.Form1.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_Time\WindowsFormsApp_Time\obj\Debug\WindowsFormsApp_Time.Properties.Resources.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_Time\WindowsFormsApp_Time\obj\Debug\WindowsFormsApp_Time.csproj.GenerateResource.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_Time\WindowsFormsApp_Time\obj\Debug\WindowsFormsApp_Time.csproj.CoreCompileInputs.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_Time\WindowsFormsApp_Time\obj\Debug\WindowsFormsApp_Time.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_Time\WindowsFormsApp_Time\obj\Debug\WindowsFormsApp_Time.pdb
