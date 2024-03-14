@@ -1,0 +1,10 @@
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_SapXepMang\WindowsFormsApp_SapXepMang\bin\Debug\WindowsFormsApp_SapXepMang.exe.config
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_SapXepMang\WindowsFormsApp_SapXepMang\bin\Debug\WindowsFormsApp_SapXepMang.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_SapXepMang\WindowsFormsApp_SapXepMang\bin\Debug\WindowsFormsApp_SapXepMang.pdb
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_SapXepMang\WindowsFormsApp_SapXepMang\obj\Debug\WindowsFormsApp_SapXepMang.csproj.AssemblyReference.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_SapXepMang\WindowsFormsApp_SapXepMang\obj\Debug\WindowsFormsApp_SapXepMang.Form1.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_SapXepMang\WindowsFormsApp_SapXepMang\obj\Debug\WindowsFormsApp_SapXepMang.Properties.Resources.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_SapXepMang\WindowsFormsApp_SapXepMang\obj\Debug\WindowsFormsApp_SapXepMang.csproj.GenerateResource.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_SapXepMang\WindowsFormsApp_SapXepMang\obj\Debug\WindowsFormsApp_SapXepMang.csproj.CoreCompileInputs.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_SapXepMang\WindowsFormsApp_SapXepMang\obj\Debug\WindowsFormsApp_SapXepMang.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_SapXepMang\WindowsFormsApp_SapXepMang\obj\Debug\WindowsFormsApp_SapXepMang.pdb

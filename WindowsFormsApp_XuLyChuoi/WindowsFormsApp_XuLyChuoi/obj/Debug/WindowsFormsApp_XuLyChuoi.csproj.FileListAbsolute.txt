@@ -1,0 +1,10 @@
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_XuLyChuoi\WindowsFormsApp_XuLyChuoi\bin\Debug\WindowsFormsApp_XuLyChuoi.exe.config
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_XuLyChuoi\WindowsFormsApp_XuLyChuoi\bin\Debug\WindowsFormsApp_XuLyChuoi.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_XuLyChuoi\WindowsFormsApp_XuLyChuoi\bin\Debug\WindowsFormsApp_XuLyChuoi.pdb
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_XuLyChuoi\WindowsFormsApp_XuLyChuoi\obj\Debug\WindowsFormsApp_XuLyChuoi.csproj.AssemblyReference.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_XuLyChuoi\WindowsFormsApp_XuLyChuoi\obj\Debug\WindowsFormsApp_XuLyChuoi.Form1.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_XuLyChuoi\WindowsFormsApp_XuLyChuoi\obj\Debug\WindowsFormsApp_XuLyChuoi.Properties.Resources.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_XuLyChuoi\WindowsFormsApp_XuLyChuoi\obj\Debug\WindowsFormsApp_XuLyChuoi.csproj.GenerateResource.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_XuLyChuoi\WindowsFormsApp_XuLyChuoi\obj\Debug\WindowsFormsApp_XuLyChuoi.csproj.CoreCompileInputs.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_XuLyChuoi\WindowsFormsApp_XuLyChuoi\obj\Debug\WindowsFormsApp_XuLyChuoi.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_XuLyChuoi\WindowsFormsApp_XuLyChuoi\obj\Debug\WindowsFormsApp_XuLyChuoi.pdb
