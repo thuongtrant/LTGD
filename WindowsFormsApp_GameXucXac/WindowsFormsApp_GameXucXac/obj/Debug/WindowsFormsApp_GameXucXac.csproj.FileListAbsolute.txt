@@ -1,0 +1,10 @@
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_GameXucXac\WindowsFormsApp_GameXucXac\bin\Debug\WindowsFormsApp_GameXucXac.exe.config
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_GameXucXac\WindowsFormsApp_GameXucXac\bin\Debug\WindowsFormsApp_GameXucXac.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_GameXucXac\WindowsFormsApp_GameXucXac\bin\Debug\WindowsFormsApp_GameXucXac.pdb
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_GameXucXac\WindowsFormsApp_GameXucXac\obj\Debug\WindowsFormsApp_GameXucXac.csproj.AssemblyReference.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_GameXucXac\WindowsFormsApp_GameXucXac\obj\Debug\WindowsFormsApp_GameXucXac.Form1.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_GameXucXac\WindowsFormsApp_GameXucXac\obj\Debug\WindowsFormsApp_GameXucXac.Properties.Resources.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_GameXucXac\WindowsFormsApp_GameXucXac\obj\Debug\WindowsFormsApp_GameXucXac.csproj.GenerateResource.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_GameXucXac\WindowsFormsApp_GameXucXac\obj\Debug\WindowsFormsApp_GameXucXac.csproj.CoreCompileInputs.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_GameXucXac\WindowsFormsApp_GameXucXac\obj\Debug\WindowsFormsApp_GameXucXac.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_GameXucXac\WindowsFormsApp_GameXucXac\obj\Debug\WindowsFormsApp_GameXucXac.pdb

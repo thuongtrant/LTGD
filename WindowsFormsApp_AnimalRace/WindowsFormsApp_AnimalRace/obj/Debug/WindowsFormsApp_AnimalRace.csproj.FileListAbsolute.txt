@@ -1,0 +1,10 @@
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_AnimalRace\WindowsFormsApp_AnimalRace\bin\Debug\WindowsFormsApp_AnimalRace.exe.config
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_AnimalRace\WindowsFormsApp_AnimalRace\bin\Debug\WindowsFormsApp_AnimalRace.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_AnimalRace\WindowsFormsApp_AnimalRace\bin\Debug\WindowsFormsApp_AnimalRace.pdb
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_AnimalRace\WindowsFormsApp_AnimalRace\obj\Debug\WindowsFormsApp_AnimalRace.csproj.AssemblyReference.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_AnimalRace\WindowsFormsApp_AnimalRace\obj\Debug\WindowsFormsApp_AnimalRace.Form1.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_AnimalRace\WindowsFormsApp_AnimalRace\obj\Debug\WindowsFormsApp_AnimalRace.Properties.Resources.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_AnimalRace\WindowsFormsApp_AnimalRace\obj\Debug\WindowsFormsApp_AnimalRace.csproj.GenerateResource.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_AnimalRace\WindowsFormsApp_AnimalRace\obj\Debug\WindowsFormsApp_AnimalRace.csproj.CoreCompileInputs.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_AnimalRace\WindowsFormsApp_AnimalRace\obj\Debug\WindowsFormsApp_AnimalRace.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_AnimalRace\WindowsFormsApp_AnimalRace\obj\Debug\WindowsFormsApp_AnimalRace.pdb

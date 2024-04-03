@@ -1,0 +1,10 @@
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_DiChuyenAnh\WindowsFormsApp_DiChuyenAnh\bin\Debug\WindowsFormsApp_DiChuyenAnh.exe.config
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_DiChuyenAnh\WindowsFormsApp_DiChuyenAnh\bin\Debug\WindowsFormsApp_DiChuyenAnh.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_DiChuyenAnh\WindowsFormsApp_DiChuyenAnh\bin\Debug\WindowsFormsApp_DiChuyenAnh.pdb
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_DiChuyenAnh\WindowsFormsApp_DiChuyenAnh\obj\Debug\WindowsFormsApp_DiChuyenAnh.csproj.AssemblyReference.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_DiChuyenAnh\WindowsFormsApp_DiChuyenAnh\obj\Debug\WindowsFormsApp_DiChuyenAnh.Properties.Resources.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_DiChuyenAnh\WindowsFormsApp_DiChuyenAnh\obj\Debug\WindowsFormsApp_DiChuyenAnh.csproj.GenerateResource.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_DiChuyenAnh\WindowsFormsApp_DiChuyenAnh\obj\Debug\WindowsFormsApp_DiChuyenAnh.csproj.CoreCompileInputs.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_DiChuyenAnh\WindowsFormsApp_DiChuyenAnh\obj\Debug\WindowsFormsApp_DiChuyenAnh.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_DiChuyenAnh\WindowsFormsApp_DiChuyenAnh\obj\Debug\WindowsFormsApp_DiChuyenAnh.pdb
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_DiChuyenAnh\WindowsFormsApp_DiChuyenAnh\obj\Debug\WindowsFormsApp_DiChuyenAnh.Form1.resources

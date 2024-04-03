@@ -1,0 +1,11 @@
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_QuanLyNhanVien\WindowsFormsApp_QuanLyNhanVien\bin\Debug\WindowsFormsApp_QuanLyNhanVien.exe.config
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_QuanLyNhanVien\WindowsFormsApp_QuanLyNhanVien\bin\Debug\WindowsFormsApp_QuanLyNhanVien.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_QuanLyNhanVien\WindowsFormsApp_QuanLyNhanVien\bin\Debug\WindowsFormsApp_QuanLyNhanVien.pdb
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_QuanLyNhanVien\WindowsFormsApp_QuanLyNhanVien\obj\Debug\WindowsFormsApp_QuanLyNhanVien.csproj.AssemblyReference.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_QuanLyNhanVien\WindowsFormsApp_QuanLyNhanVien\obj\Debug\WindowsFormsApp_QuanLyNhanVien.Form1.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_QuanLyNhanVien\WindowsFormsApp_QuanLyNhanVien\obj\Debug\WindowsFormsApp_QuanLyNhanVien.FormDangNhapcs.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_QuanLyNhanVien\WindowsFormsApp_QuanLyNhanVien\obj\Debug\WindowsFormsApp_QuanLyNhanVien.Properties.Resources.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_QuanLyNhanVien\WindowsFormsApp_QuanLyNhanVien\obj\Debug\WindowsFormsApp_QuanLyNhanVien.csproj.GenerateResource.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_QuanLyNhanVien\WindowsFormsApp_QuanLyNhanVien\obj\Debug\WindowsFormsApp_QuanLyNhanVien.csproj.CoreCompileInputs.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_QuanLyNhanVien\WindowsFormsApp_QuanLyNhanVien\obj\Debug\WindowsFormsApp_QuanLyNhanVien.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_QuanLyNhanVien\WindowsFormsApp_QuanLyNhanVien\obj\Debug\WindowsFormsApp_QuanLyNhanVien.pdb

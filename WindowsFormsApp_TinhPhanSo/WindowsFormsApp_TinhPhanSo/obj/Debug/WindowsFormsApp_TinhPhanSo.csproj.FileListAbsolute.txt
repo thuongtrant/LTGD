@@ -1,0 +1,10 @@
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_TinhPhanSo\WindowsFormsApp_TinhPhanSo\bin\Debug\WindowsFormsApp_TinhPhanSo.exe.config
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_TinhPhanSo\WindowsFormsApp_TinhPhanSo\bin\Debug\WindowsFormsApp_TinhPhanSo.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_TinhPhanSo\WindowsFormsApp_TinhPhanSo\bin\Debug\WindowsFormsApp_TinhPhanSo.pdb
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_TinhPhanSo\WindowsFormsApp_TinhPhanSo\obj\Debug\WindowsFormsApp_TinhPhanSo.csproj.AssemblyReference.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_TinhPhanSo\WindowsFormsApp_TinhPhanSo\obj\Debug\WindowsFormsApp_TinhPhanSo.Form1.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_TinhPhanSo\WindowsFormsApp_TinhPhanSo\obj\Debug\WindowsFormsApp_TinhPhanSo.Properties.Resources.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_TinhPhanSo\WindowsFormsApp_TinhPhanSo\obj\Debug\WindowsFormsApp_TinhPhanSo.csproj.GenerateResource.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_TinhPhanSo\WindowsFormsApp_TinhPhanSo\obj\Debug\WindowsFormsApp_TinhPhanSo.csproj.CoreCompileInputs.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_TinhPhanSo\WindowsFormsApp_TinhPhanSo\obj\Debug\WindowsFormsApp_TinhPhanSo.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_TinhPhanSo\WindowsFormsApp_TinhPhanSo\obj\Debug\WindowsFormsApp_TinhPhanSo.pdb
