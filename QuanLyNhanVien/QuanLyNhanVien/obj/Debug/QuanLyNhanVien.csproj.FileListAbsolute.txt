@@ -1,0 +1,11 @@
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe.config
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.pdb
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.AssemblyReference.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.FormDangNhap.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Properties.Resources.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.GenerateResource.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.CoreCompileInputs.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.pdb
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.FormQLNhanVien.resources

@@ -1,0 +1,10 @@
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\PhotoAlbum\PhotoAlbum\bin\Debug\PhotoAlbum.exe.config
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\PhotoAlbum\PhotoAlbum\bin\Debug\PhotoAlbum.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\PhotoAlbum\PhotoAlbum\bin\Debug\PhotoAlbum.pdb
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.csproj.AssemblyReference.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.Form1.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.Properties.Resources.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.csproj.GenerateResource.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.csproj.CoreCompileInputs.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.pdb

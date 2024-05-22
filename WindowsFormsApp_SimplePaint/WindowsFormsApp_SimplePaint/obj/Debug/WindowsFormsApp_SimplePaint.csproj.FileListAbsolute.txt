@@ -1,0 +1,13 @@
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_SimplePaint\WindowsFormsApp_SimplePaint\bin\Debug\WindowsFormsApp_SimplePaint.exe.config
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_SimplePaint\WindowsFormsApp_SimplePaint\bin\Debug\WindowsFormsApp_SimplePaint.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_SimplePaint\WindowsFormsApp_SimplePaint\bin\Debug\WindowsFormsApp_SimplePaint.pdb
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_SimplePaint\WindowsFormsApp_SimplePaint\obj\Debug\WindowsFormsApp_SimplePaint.csproj.AssemblyReference.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_SimplePaint\WindowsFormsApp_SimplePaint\obj\Debug\WindowsFormsApp_SimplePaint.Form1.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_SimplePaint\WindowsFormsApp_SimplePaint\obj\Debug\WindowsFormsApp_SimplePaint.Properties.Resources.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_SimplePaint\WindowsFormsApp_SimplePaint\obj\Debug\WindowsFormsApp_SimplePaint.csproj.GenerateResource.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_SimplePaint\WindowsFormsApp_SimplePaint\obj\Debug\WindowsFormsApp_SimplePaint.csproj.CoreCompileInputs.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_SimplePaint\WindowsFormsApp_SimplePaint\obj\Debug\WindowsFormsApp_SimplePaint.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_SimplePaint\WindowsFormsApp_SimplePaint\obj\Debug\WindowsFormsApp_SimplePaint.pdb
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_SimplePaint\WindowsFormsApp_SimplePaint\obj\Debug\WindowsFormsApp_SimplePaint.FrmDrawImage.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_SimplePaint\WindowsFormsApp_SimplePaint\obj\Debug\WindowsFormsApp_SimplePaint.FrmDrawText.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_SimplePaint\WindowsFormsApp_SimplePaint\obj\Debug\WindowsFormsApp_SimplePaint.FrmDrawMouse.resources

@@ -1,0 +1,10 @@
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\MoveObject\MoveObject\bin\Debug\MoveObject.exe.config
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\MoveObject\MoveObject\bin\Debug\MoveObject.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\MoveObject\MoveObject\bin\Debug\MoveObject.pdb
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\MoveObject\MoveObject\obj\Debug\MoveObject.csproj.AssemblyReference.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\MoveObject\MoveObject\obj\Debug\MoveObject.Form1.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\MoveObject\MoveObject\obj\Debug\MoveObject.Properties.Resources.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\MoveObject\MoveObject\obj\Debug\MoveObject.csproj.GenerateResource.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\MoveObject\MoveObject\obj\Debug\MoveObject.csproj.CoreCompileInputs.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\MoveObject\MoveObject\obj\Debug\MoveObject.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\MoveObject\MoveObject\obj\Debug\MoveObject.pdb

@@ -1,0 +1,10 @@
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhotoAlbum\WindowsFormsApp_PhotoAlbum\bin\Debug\WindowsFormsApp_PhotoAlbum.exe.config
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhotoAlbum\WindowsFormsApp_PhotoAlbum\bin\Debug\WindowsFormsApp_PhotoAlbum.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhotoAlbum\WindowsFormsApp_PhotoAlbum\bin\Debug\WindowsFormsApp_PhotoAlbum.pdb
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhotoAlbum\WindowsFormsApp_PhotoAlbum\obj\Debug\WindowsFormsApp_PhotoAlbum.csproj.AssemblyReference.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhotoAlbum\WindowsFormsApp_PhotoAlbum\obj\Debug\WindowsFormsApp_PhotoAlbum.Form1.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhotoAlbum\WindowsFormsApp_PhotoAlbum\obj\Debug\WindowsFormsApp_PhotoAlbum.Properties.Resources.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhotoAlbum\WindowsFormsApp_PhotoAlbum\obj\Debug\WindowsFormsApp_PhotoAlbum.csproj.GenerateResource.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhotoAlbum\WindowsFormsApp_PhotoAlbum\obj\Debug\WindowsFormsApp_PhotoAlbum.csproj.CoreCompileInputs.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhotoAlbum\WindowsFormsApp_PhotoAlbum\obj\Debug\WindowsFormsApp_PhotoAlbum.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_PhotoAlbum\WindowsFormsApp_PhotoAlbum\obj\Debug\WindowsFormsApp_PhotoAlbum.pdb

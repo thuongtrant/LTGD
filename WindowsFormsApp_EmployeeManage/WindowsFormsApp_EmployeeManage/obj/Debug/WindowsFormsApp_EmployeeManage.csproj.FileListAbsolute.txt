@@ -1,0 +1,10 @@
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_EmployeeManage\WindowsFormsApp_EmployeeManage\bin\Debug\WindowsFormsApp_EmployeeManage.exe.config
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_EmployeeManage\WindowsFormsApp_EmployeeManage\bin\Debug\WindowsFormsApp_EmployeeManage.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_EmployeeManage\WindowsFormsApp_EmployeeManage\bin\Debug\WindowsFormsApp_EmployeeManage.pdb
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_EmployeeManage\WindowsFormsApp_EmployeeManage\obj\Debug\WindowsFormsApp_EmployeeManage.csproj.AssemblyReference.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_EmployeeManage\WindowsFormsApp_EmployeeManage\obj\Debug\WindowsFormsApp_EmployeeManage.Form1.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_EmployeeManage\WindowsFormsApp_EmployeeManage\obj\Debug\WindowsFormsApp_EmployeeManage.Properties.Resources.resources
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_EmployeeManage\WindowsFormsApp_EmployeeManage\obj\Debug\WindowsFormsApp_EmployeeManage.csproj.GenerateResource.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_EmployeeManage\WindowsFormsApp_EmployeeManage\obj\Debug\WindowsFormsApp_EmployeeManage.csproj.CoreCompileInputs.cache
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_EmployeeManage\WindowsFormsApp_EmployeeManage\obj\Debug\WindowsFormsApp_EmployeeManage.exe
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\C#\WindowsFormsApp_EmployeeManage\WindowsFormsApp_EmployeeManage\obj\Debug\WindowsFormsApp_EmployeeManage.pdb
